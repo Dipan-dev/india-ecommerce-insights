@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ecommerce-sales-analysis/
@@ -36,7 +36,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 | Attribute        | Details                              |
 |------------------|--------------------------------------|
@@ -49,7 +49,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🔍 Key Business Questions Answered
+## Key Business Questions Answered
 
 1. What is the overall revenue, order volume, and average order value?
 2. How does revenue trend month-over-month across 2023?
@@ -64,7 +64,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - **Total Revenue**: ₹44.02 Lakhs from 2,338 delivered orders
 - **Top Category**: Electronics leads all categories in revenue
@@ -75,7 +75,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool       | Purpose                         |
 |------------|---------------------------------|
@@ -87,7 +87,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # 1. Clone the repo
@@ -106,7 +106,7 @@ python analysis.py
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Executive Dashboard](visualizations/08_executive_dashboard.png)
 
