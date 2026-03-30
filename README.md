@@ -112,7 +112,7 @@ python analysis.py
 
 ---
 
-## 👤 Author
+## Made by
 
 **Dipan Shil** — Business Analyst | Data Enthusiast  
 [LinkedIn](https://linkedin.com/in/dipanshil) • [GitHub](https://github.com/Dipan-dev)
